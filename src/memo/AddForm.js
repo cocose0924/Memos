@@ -27,7 +27,6 @@ function AddForm(props) {
           className="form-control-sm col"
           onChange={doChange}
           value={message}
-          required
         />
         <input
           type="submit"
